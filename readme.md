@@ -1,3 +1,9 @@
+#TODO
+Create tests using frisbee or something similar
+Sign up for travis-ci and Create travis.yml
+Move example apps to tests/fixtures and update README
+
+
 # Interfake: Just-add-JSON HTTP API
 
 Interfake is a tool which allows developers of client-side applications to easily create dummy APIs to develop against. Let's get started with a simple example.
