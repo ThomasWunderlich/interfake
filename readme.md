@@ -1,8 +1,20 @@
-#TODO
+# TODO
+
 Create tests using frisbee or something similar
+
 Sign up for travis-ci and Create travis.yml
+
 Move example apps to tests/fixtures and update README
 
+## Test Cases:
+
+Successful api return
+
+Successful 404
+
+Successful port binding
+
+Successful return as JSONP
 
 # Interfake: Just-add-JSON HTTP API
 
